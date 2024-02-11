@@ -1,0 +1,14 @@
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Faculdade_Vincit\projeto_C#\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
